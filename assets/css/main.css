@@ -1,0 +1,297 @@
+
+*,
+*:after,
+*:before {
+	-moz-box-sizing:border-box;
+	box-sizing:border-box;
+	-webkit-font-smoothing:antialiased;
+	font-smoothing:antialiased;
+	text-rendering:optimizeLegibility;
+}
+
+html {
+    height:100%;
+    overflow-x:hidden;
+}
+
+html {
+    scroll-behavior: smooth;
+    
+    }
+
+
+body {
+    max-width: 100%;
+    padding: 0;
+    margin: 0;
+    background-color: white;
+    font-size: 62.5%;
+    overflow-x: hidden;
+}
+
+.pb-10 {
+    padding-bottom:10px;
+}
+
+.pb-15 {
+    padding-bottom:15px;
+}
+
+.pb-20 {
+    padding-bottom:20px;
+}
+
+.pb-30 {
+    padding-bottom:30px;
+}
+
+.pb-60 {
+    padding-bottom:60px;
+}
+
+.pb-80 {
+    padding-bottom:80px;
+}
+
+.pt-10 {
+    padding-top:10px;
+}
+
+.pt-15 {
+    padding-top:15px;
+}
+
+.pt-20 {
+    padding-top:20px;
+}
+
+.pt-30 {
+    padding-top:30px;
+}
+
+.pt-60 {
+    padding-top:60px;
+}
+
+.pt-80 {
+    padding-top:80px;
+}
+
+.plr-10 {
+    padding:0 10px;
+}
+
+.plr-20 {
+    padding:0 20px;
+}
+
+.plr-30 {
+    padding:0 30px;
+}
+
+.plr-60 {
+    padding:0 60px;
+}
+
+.hide-on-pc {
+    display:none;
+}
+
+.hide-on-mobile {
+    display:initial;
+}
+
+.hide-on-tablet {
+    display:initial;
+}
+
+figure {
+    text-align:center;
+}
+
+.container-fluid {
+    padding-right:0px;
+    padding-left:0px;
+}
+
+img {
+    width:100%;
+    height:auto;
+    border:0px;
+}
+
+p {
+    word-wrap: break-word;
+}
+
+
+.flex {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -moz-flex;
+    display: -ms-flexbox;
+    display: flex;
+}
+
+
+/* main page styling */
+
+#page-container.container-fluid {
+    padding-left:0;
+    padding-right:0;
+}
+
+
+        /* Top Header Styling */    
+        
+.page-header-container {
+    /* background: linear-gradient(90deg, #1CB5E0 0%, #000851 100%); */
+    background:url(../images/slider.jpg);
+    background:linear-gradient(90deg, rgb(27, 180, 222, 0.5) 0%, rgb(0, 8, 81,0.8) 100%), url(../images/slider.jpg);
+    background-size:cover;
+    background-repeat:no-repeat;
+    background-position: center;
+}
+
+    .page-header-content{
+        background:white;
+        padding:1em 0;
+    }
+    .page-header-top {
+        background:#f3f3f3;
+    }
+
+
+    .page-header-content,
+    .page-header-top {
+        font-size:1.6em;
+    }
+    
+    .page-header-top p {
+        margin:0;
+        padding:0.5em 0;
+    }
+    
+    .page-header-top-items .row > div {
+        padding:0;
+    }
+
+    .page-header-top-items > div > :nth-child(2),
+    .page-header-top-items > div > :last-child {
+        text-align:center;
+    }
+    .page-header-top-items a {
+        display:block;
+        color:inherit;
+        width:100%;
+        height:100%;
+        padding:0.5em 0;
+    }
+    .page-header-top-items i {
+        padding-right:10px;
+    }
+
+    .top-item-buy {
+        background:#084bd1 ;
+        color:white;
+    }
+
+    .top-item-enquiry {
+        background:#fd7921;
+        color:white;
+    }
+
+    /* Navigation Styling */
+    
+  .navbar, .navbar-inverse {
+	border-radius: 0;
+	border: none;
+	margin-bottom: 0;
+	min-height: 80px;
+}
+
+.nav li {
+	display: inline;
+	color: white;
+}
+
+.navbar-inverse .navbar-nav > li > a {
+	color: #ffffff;
+	font-family: Lato;
+	font-size: 1.7em;
+	font-weight: 300;
+	padding: 30px 25px 33px 25px;
+}
+
+.navbar-inverse .navbar-nav li a:hover {
+	background-color: #444444;
+	transition: 0.7s all linear;
+	height: 100%;
+}
+
+
+
+
+    .page-nav-container {
+        align-items:center;
+        justify-content: flex-end;
+    }
+
+    .page-nav-container ul,
+    .navbar ul {
+        padding:0;
+        margin:0;
+        height:100%;
+        align-items:center;
+    }
+
+    .page-nav-container ul li,
+    .navbar ul li {
+        padding:0;
+        margin:0;
+        height:100%;
+        width:100%;
+        min-width:100px;
+        list-style-type: none;
+    }
+
+    .page-nav-container ul li a,
+    .navbar ul li a{
+        display:flex;
+        height:100%;
+        color:#686868;
+        align-items:center;
+        justify-content: center;
+    }
+    .page-nav-container i {
+        padding-left:8px;
+    }
+
+    .navbar {
+        width:100%;
+        padding:0;
+    }
+
+    .navbar i {
+        margin-right:10px;
+    }
+
+    .navbar a {
+        text-transform:capitalize;
+
+    }
+
+    .dropdown-menu {
+
+    }
+
+    .navbar ul li a {
+        justify-content: flex-start;
+
+    }
+
+    .navbar-expand-lg .navbar-collapse {
+        justify-content:flex-end;
+    }
+
+    .navigation-container 
