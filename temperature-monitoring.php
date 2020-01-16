@@ -19,7 +19,7 @@
                     <p>AiRISTA Flow offers a time-series dashboard view for temperature and humidity data in their software platforms. The active RFID tags have battery-powered sensors placed inside refrigerators that help to prevent breaches by texting AiRISTA Flow RTLS badge tags and sending email notifications when temperature or humidity exceeds software-programmed thresholds.</p>
                 </div>
                 <div class="col-md-12 col-lg-6 page-content-img">
-                    <img src="@assets/imgs/temperature1.jpg" alt="PRODUCT TEMPERATURE MONITORING" class="img-fluid">
+                    <img src="../assets/images/temperature1.jpg" alt="PRODUCT TEMPERATURE MONITORING" class="img-fluid">
                 </div>
             </div>
         </div>
@@ -31,7 +31,7 @@
         <div class="page-content-inner container">
             <div class="row">
                 <div class="col-md-12 col-lg-6 page-content-img">
-                    <img src="@/assets/img/temperature2.jpg" alt="CUSTOM SOLUTIONS FROM THE AIRISTA FLOW SUITE OF OFFERINGS HELP ALLOW ORGANIZATIONS TO" class="img-fluid">
+                    <img src="../assets/images/temperature2.jpg" alt="CUSTOM SOLUTIONS FROM THE AIRISTA FLOW SUITE OF OFFERINGS HELP ALLOW ORGANIZATIONS TO" class="img-fluid">
                 </div>
                 <div class="col-md-12 col-lg-6 page-content-text">
                     <h2 class="page-content-title">CUSTOM SOLUTIONS FROM THE AIRISTA FLOW SUITE OF OFFERINGS HELP ALLOW ORGANIZATIONS TO:</h2>
