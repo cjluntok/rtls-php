@@ -418,7 +418,7 @@ p {
         }
 
         &.page-banner {
-            height:30vh;
+            min-height:30vh;
             background:url(../images/page-banner.jpg);
             background-attachment:fixed;
             background-size:cover;
@@ -741,6 +741,10 @@ p {
     }
 }
 
+
+.contact-form-results {
+    font-size:1.6em;
+}
 .contact {
     &.contact--1 {
         & .page-content-item {
@@ -1307,7 +1311,7 @@ p {
     }
 
     .page-header-container {
-        min-height:0;
+        min-height:176px;
     }
 
     .page-bgtext-container .page-content-inner h2 {
