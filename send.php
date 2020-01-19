@@ -17,7 +17,7 @@ include_once('templates/header.php'); ?>
 if(isset($_POST['customer_mail'])){
  
     // EDIT THE 2 LINES BELOW AS REQUIRED
-    $email_to = "cjluntok@gmail.com";
+    $email_to = "duress@wwsinternational.net";
     $email_subject = "New message from Contact Form!";
  
     function died($error) {
