@@ -3,10 +3,17 @@
 
 <head>
   <meta charset="utf-8">
-  <title>RTLS Solutions | Real Time Location Services</title>
-  <meta name="description" content="AiRISTA Flow is a leader in real-time location services. Quickly discover how to optimize your business performance and transform your organization.">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
+  <title>RTLS Solutions | Real Time Location Services</title>
+  <meta name="description" content="AiRISTA Flow is a leader in real-time location services. Quickly discover how to optimize your business performance and transform your organization.">
+  <meta name="title" content="RTLS Solutions | Real Time Location Services">
+  <meta name="keywords" content=" ">
+  
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta name="language" content="English">
+  <meta name="robots" content="index, follow">
   <!-- Place favicon.ico in the root directory -->
 
   <link rel="stylesheet" href="dist/bootstrap/css/bootstrap.min.css">
