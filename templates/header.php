@@ -15,6 +15,10 @@
   <link rel="stylesheet" href="assets/css/normalize.css">
   <link rel="stylesheet" href="assets/css/custom.min.css">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css">
+  <script src="assets/js/vendor/jquery-3.4.1.min.js"></script>
+  <script>
+    $("html").css('overflow-y','hidden');
+  </script>
 
   <meta name="theme-color" content="#fafafa">
 </head>

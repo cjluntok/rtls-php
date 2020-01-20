@@ -55,11 +55,12 @@
   </main>
 
   <script src="assets/js/vendor/modernizr-3.7.1.min.js"></script>
-  <script src="assets/js/vendor/jquery-3.4.1.min.js"></script>
+
   <script>window.jQuery || document.write('<script src="js/vendor/jquery-3.4.1.min.js"><\/script>')</script>
   <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+  
   <script>
-  $("html").css('overflow-y','hidden');
+  
     $(document).ready(function() {
       window.onload = function () {
         $("html").css('overflow-y','initial');
