@@ -6,18 +6,19 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   <title>RTLS Solutions | Real Time Location Services</title>
+
   <!-- SEO TAGS -->
   <meta name="description" content="AiRISTA Flow is a leader in real-time location services. Quickly discover how to optimize your business performance and transform your organization.">
   <meta name="title" content="RTLS Solutions | Real Time Location Services">
-  <meta name="keywords" content=" ">
-  <meta name='url' content=''>
+  <meta name="keywords" content="Duress,Safety,Security,Twig,Personal Transmitters,person down,PACCS,PACCS systems,duress button,DECT systems,Ekahau WiFi,PAC Network,PAC Radio,PAC,Wide Area GSM,2G,3G,Personnel Tracking,SPOT,Shout Nano,PACCS-PVTSAT,Iridium Extreme,PACCS-SGSAT,In Building Solutions,IBS,Outdoor Solutions,OS,Cellular networks,CDMA, LTE,Wi-Fi networks,IEEE802.11 ac, Hotspot2.0, BYOD,WiMAX networks,Tetra Networks,Tetra MOU,RFID,RTLS,Wifi RTLS, UHF RTLS, VHF RTLS,Automation radios,industrial wireless,RTU, PLC, monitoring, I/O applications, serial, RS485, Industrial ethernet,Asset Tracking,Mapping,Monitoring,Twig Protector,Alarm,SGSAT">
+  <meta name='url' content='https://<?= $_SERVER['HTTP_HOST']?>'>
   <meta name="author" content="">
-  <link rel="canonical" href="URL">
+  <link rel="canonical" href="https://<?= $_SERVER['HTTP_HOST']?>">
   <meta name='Classification' content='Business'>
   <meta property="og:title" content="TITLE" />
-  <meta property="og:type" content="article" />
-  <meta property="og:url" content="url" />
-  <meta property="og:image" content="IMAGE_TO_USE" />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="https://<?= $_SERVER['HTTP_HOST']?>" />
+  <meta property="og:image" content="https://<?= $_SERVER['HTTP_HOST'] ?>/assets/images/ogImage.jpg" />
   <meta property="og:description" content="DESCRIPTION">
   <meta property="og:site_name" content="SITE_NAME" />
 

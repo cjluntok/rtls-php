@@ -2,7 +2,7 @@
                 <div class="page-header-top">
                     <div class="page-header-top-items container">
                         <div class="row">
-                            <div class="col-md-7 col-lg-8 col-sm-2 hide-on-mobile">
+                            <div class="col-md-7 col-lg-8 col-sm-2 hide-on-mobile" id="top-text">
                                 <p class="">The Experts in Real-Time Location Systems</p>
                             </div>
                             <div class="col-md-3 col-lg-2 col-sm-6  top-item-buy">
