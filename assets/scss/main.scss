@@ -1400,7 +1400,11 @@ p {
     }
 
     .page-header-container {
-        min-height:176px;
+        min-height:96px;
+    }
+
+    .page-uvs .page-content-inner .page-content-text, .page-full-width .page-content-inner .page-content-text {
+        padding-top:0;
     }
 
     .page-bgtext-container .page-content-inner h2 {
