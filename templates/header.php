@@ -23,7 +23,7 @@
 
 
 <main id="page-container" class="container-fluid">
-    
+  <?php include_once('partials/loader.php');?>  
   <?php include_once('partials/backtotop.php'); ?>
     <?php include_once('navigation.php');?>
 

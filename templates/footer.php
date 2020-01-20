@@ -58,9 +58,19 @@
   <script src="assets/js/vendor/jquery-3.4.1.min.js"></script>
   <script>window.jQuery || document.write('<script src="js/vendor/jquery-3.4.1.min.js"><\/script>')</script>
   <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+  <script>
+  $("html").css('overflow-y','hidden');
+    $(document).ready(function() {
+      window.onload = function () {
+        $("html").css('overflow-y','initial');
+        $(".loader__main_container").fadeOut(500, function() {
+          $('.loader__main_container').remove();
+        })
+      }
+    })
+  </script>
   <script src="dist/bootstrap/js/bootstrap.min.js"></script>
   <script src="assets/js/main.js"></script>
-
   <!-- Google Analytics: change UA-XXXXX-Y to be your site's ID. -->
   <script>
     window.ga = function () { ga.q.push(arguments) }; ga.q = []; ga.l = +new Date;
