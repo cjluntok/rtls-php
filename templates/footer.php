@@ -45,7 +45,7 @@
                     </div>
                       <div class="col-md-12">
                         <div class="py-4 d-flex justify-content-center align-items-center footer-copyright">
-                          <p class="">Copyright © - <?= date('Y'); ?> Site Name </p>
+                          <p class="">Copyright © <?= date('Y'); ?> - <strong>RTLS Advisory Services</strong></p>
                         </div>
                       </div>
                   </div>

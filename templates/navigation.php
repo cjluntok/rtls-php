@@ -19,7 +19,7 @@
                 <div class="container navigation-container">
                         <nav class="navbar navbar-expand-lg navbar-light">
                             <div id="logo" class="col-sm-8 col-md-6 col-lg-3 page-logo">                                
-                                <a class="navbar-brand" href="../airista"><img class="img-fluid" src="assets/images/rtls-logo.png" alt="Logo"></a>                                
+                                <a class="navbar-brand" href="/"><img class="img-fluid" src="assets/images/rtls-logo.png" alt="Logo"></a>                                
                             </div>
                             
                             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -30,7 +30,7 @@
                               <ul class="navbar-nav">
 
                                 <li class="nav-item <?php if($title == 'home') echo 'active';?>">
-                                  <a class="nav-link" href="../airista">Home</a>
+                                  <a class="nav-link" href="/">Home</a>
                                 </li>
                                 <li class="nav-item dropdown <?= ($title == 'software' or $title == 'hardware') ? 'active' : ''?>">
                                         <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
