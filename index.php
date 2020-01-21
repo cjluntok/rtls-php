@@ -7,59 +7,122 @@
 ?>
 
 <?php include_once('templates/header.php'); ?>
-
-<section class="page-content">
-        <section class="page-content page-software-card-container">
-            <div class="page-content-item">
-                <div class="page-content-inner container">
-                    <h2 class="page-content-title">UNIFIED VISION SOLUTION FOR RTLS</h2>
-                    <p>Our end-to-end solution provides visibility for the location and condition of people and assets at work. At the heart of the solution is a software platform that ties this information to customers’ processes to help make better business decisions. Unlike RTLS solutions that operate as islands, the UVS platform combines information from assets company wide delivering insight across the delivery chain. The rich workflow engine has the flexibility to model virtually any business process. UVS has proven to be the enterprise RTLS platform that breaks traditional silos of asset visibility to create a unified view across the enterprise.</p>
-                    <div class="row page-software-card">
-
-                        <div class="col-md-6">
-                            <div class="card">
-                                <h3 class="card_title card_title-default">
-                                <i class="fas fa-wifi"></i> Wireless Technologies
-                                </h3>
-                                <div class="card_body">
-                                    <ul>
-                                        <li>Wi-Fi</li>
-                                        <li>GPS</li>
-                                        <li>Bluetooth Low Energy (BLE)</li>
-                                        <li>Infrared (IR)</li>
-                                        <li>Passive Radio-Frequency Identification (RFID)</li>
-                                        <li>Third-Party (Cellular, Satellite, UWB, LoRa)</li>
-                                    </ul>
+    <section class="page-content page-services">
+        <section class="page-content-item">
+            <div class="page-content-inner page-services-bg container-fluid">
+                <h2 class="page-content-title container">State-of-the-art Real Time location systems on your technology of choice</h2>
+                <div class="page-services-container">
+                    <div class="container">
+                        <!-- Row  -->
+                        <div class="row">
+                            <!-- Column -->
+                            <div id="service-wifi" class="col-md-6 col-lg-3 wrap-service11-box">
+                                <div class="card services-card card-shadow border-0 mb-4">
+                                    <div class="p-4 card-content">
+                                        <div class="icon-space">
+                                            <div class="icon-round text-center d-inline-block bg-success-gradiant">Wifi</div>
+                                        </div>
+                                        <h6 class="font-weight-medium">Airista</h6>
+                                        <p class="mt-3">Your trusted partner in workplace safety and performance as a leading global provider of location-based business solutions. Make decisions fast and keep your staff safe by tapping into our expertise and flexible real-time location services.</p>
+                                    </div>
                                 </div>
                             </div>
-                        </div>
-                        <div class="col-md-6">
-                            <div class="card">
-                                <h3 class="card_title card_title-default">
-                                <i class="fas fa-desktop"></i> SENSOR TYPES
-                                </h3>
-                                <div class="card_body">
-                                    <ul>
-                                        <li>Location</li>
-                                        <li>Temperature</li>
-                                        <li>Humidity</li>
-                                        <li>Vibration</li>
-                                        <li>Motion & Direction</li>
-                                        <li>Man-Down</li>
-                                        <li>Intrinsically Safe (Explosion Proof)</li>
-                                        <li>Indoor & Outdoor</li>
-                                    </ul>
+                            <!-- Column -->
+                            <div id="service-cellular" class="col-md-6 col-lg-3 wrap-service11-box">
+                                <div class="card services-card card-shadow border-0 mb-4">
+                                    <div class="p-4 card-content">
+                                        <div class="icon-space">
+                                            <div class="icon-round text-center d-inline-block bg-success-gradiant">Cellular</div>
+                                        </div>
+                                        <h6 class="font-weight-medium">TWIG Com</h6>
+                                        <p class="mt-3">Europe's leading cellular GPS location system for people on the move. Outdoors, using GPA and indoors using Twig Point monitor.</p>
+                                    </div>
                                 </div>
                             </div>
-                        </div>
+                            <!-- Column -->
+                            <div id="service-rf" class="col-md-6 col-lg-3 wrap-service11-box">
+                                <div class="card services-card card-shadow border-0 mb-4">
+                                    <div class="p-4 card-content">
+                                        <div class="icon-space">
+                                            <div class="icon-round text-center d-inline-block bg-success-gradiant">RF</div>
+                                        </div>
+                                        <h6 class="font-weight-medium">Mini PACCS</h6>
+                                        <p class="mt-3">Fixed location systems for all indoor location needs with fixed location and portable buttons.</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- Column -->
+                            <div id="service-ble" class="col-md-6 col-lg-3 wrap-service11-box">
+                                <div class="card services-card card-shadow border-0 mb-4">
+                                    <div class="p-4 card-content">
+                                        <div class="icon-space">
+                                            <div class="icon-round text-center d-inline-block bg-success-gradiant">BLE</div>
+                                        </div>
+                                        <h6 class="font-weight-medium">Quuppa</h6>
+                                        <p class="mt-3">Instant Real Time Location and tracking with centimetre accuracy.</p>
+                                    </div>
+                                </div>
+                            </div>                            
 
+                        </div>
                     </div>
                 </div>
             </div>
         </section>
-        <!-- #page-content-products here if ever -->
-    
-        </div>
+    </section>
+
+    <section class="page-content">
+            <section class="page-content page-software-card-container">
+                <div class="page-content-item">
+                    <div class="page-content-inner container">
+                        <h2 class="page-content-title">UNIFIED VISION SOLUTION FOR RTLS</h2>
+                        <p>Our end-to-end solution provides visibility for the location and condition of people and assets at work. At the heart of the solution is a software platform that ties this information to customers’ processes to help make better business decisions. Unlike RTLS solutions that operate as islands, the UVS platform combines information from assets company wide delivering insight across the delivery chain. The rich workflow engine has the flexibility to model virtually any business process. UVS has proven to be the enterprise RTLS platform that breaks traditional silos of asset visibility to create a unified view across the enterprise.</p>
+                        <div class="row page-software-card">
+
+                            <div class="col-md-6">
+                                <div class="card">
+                                    <h3 class="card_title card_title-default">
+                                    <i class="fas fa-wifi"></i> Wireless Technologies
+                                    </h3>
+                                    <div class="card_body">
+                                        <ul>
+                                            <li>Wi-Fi</li>
+                                            <li>GPS</li>
+                                            <li>Bluetooth Low Energy (BLE)</li>
+                                            <li>Infrared (IR)</li>
+                                            <li>Passive Radio-Frequency Identification (RFID)</li>
+                                            <li>Third-Party (Cellular, Satellite, UWB, LoRa)</li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <div class="card">
+                                    <h3 class="card_title card_title-default">
+                                    <i class="fas fa-desktop"></i> SENSOR TYPES
+                                    </h3>
+                                    <div class="card_body">
+                                        <ul>
+                                            <li>Location</li>
+                                            <li>Temperature</li>
+                                            <li>Humidity</li>
+                                            <li>Vibration</li>
+                                            <li>Motion & Direction</li>
+                                            <li>Man-Down</li>
+                                            <li>Intrinsically Safe (Explosion Proof)</li>
+                                            <li>Indoor & Outdoor</li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <!-- #page-content-products here if ever -->
+        
+            </div>
     </section>
 
     <section class="page-content">

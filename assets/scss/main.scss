@@ -505,7 +505,7 @@ p {
 }
 
 .page-content-solution {
-
+    min-height:342px;
     & .row {
         justify-content: space-around;
     }
@@ -1175,7 +1175,120 @@ p {
     .footer-copyright {
         text-align:center;
         color:white;
+        font-size:1em;
+        & a {
+            font-size:1em;
+        }
     }
+
+
+    .page-services {
+        
+        .page-content-item {
+            margin-top:0;
+        }
+
+        .page-services-bg {
+            padding-top:35px;
+        }
+    }
+    .page-services-container {
+        font-family: "Montserrat", sans-serif;
+        color: #8d97ad !important;
+        font-weight: 300;
+        min-height:475px;
+
+        & p {
+            color:inherit !important;
+        }
+
+        .services-card {
+            min-height:330px;
+            transition:all 0.3s ease;
+            cursor:pointer;
+        }
+
+        .services-card:hover {
+            margin-top:-.25rem;
+        }
+      }
+      
+      .page-services-container h1, .page-services-container h2, .page-services-container h3, .page-services-container h4, .page-services-container h5, .page-services-container h6 {
+        color: #3e4555 !important;
+      }
+      
+      .page-services-container .font-weight-medium {
+          font-weight: 500;
+      }
+      
+      .page-services-container .bg-light {
+          background-color: #f4f8fa !important;
+      }
+      
+      .page-services-container .subtitle {
+          color: #8d97ad !important;
+          line-height: 24px;
+      }
+      
+      .page-services-container .card.card-shadow {
+          -webkit-box-shadow: 0px 0px 30px rgba(115, 128, 157, 0.3);
+          box-shadow: 0px 0px 30px rgba(115, 128, 157, 0.3);
+      }
+      
+      .page-services-container .wrap-service11-box {
+        margin-top: 60px;
+      }
+      
+      .page-services-container .wrap-service11-box .icon-space {
+        margin: -50px 0 20px;
+      }
+      
+      .page-services-container .wrap-service11-box .icon-space .icon-round {
+        font-size: 2.4em;
+        color: #ffffff;
+        padding: 0 20px;
+        border-radius: 50px;
+        font-weight:700;
+      }
+      
+      .page-services-container .bg-success-gradiant {
+          background: $base-dark;
+          background: linear-gradient(90deg, rgba(1, 30, 65, 0.9) 0%, rgba(0, 8, 81, 1) 100%);
+          background: linear-gradient(90deg, rgba(1, 30, 65, 0.9) 0%, rgba(0, 8, 81, 1) 100%);
+          background: linear-gradient(90deg, rgba(1, 30, 65, 0.9) 0%, rgba(0, 8, 81, 1) 100%);
+          background: linear-gradient(90deg, rgba(1, 30, 65, 0.9) 0%, rgba(0, 8, 81, 1) 100%);
+          background: linear-gradient(90deg, rgba(1, 30, 65, 0.9) 0%, rgba(0, 8, 81, 1) 100%);
+      }
+      
+      .page-services-container .icon-round {
+          min-width: 80px;
+          line-height: 50px;
+      }
+      
+      .page-services-container .btn-success-gradiant {
+              background: $base-dark;
+          background: linear-gradient(90deg, rgba(1, 30, 65, 0.9) 0%, rgba(0, 8, 81, 1) 100%);
+          background: linear-gradient(90deg, rgba(1, 30, 65, 0.9) 0%, rgba(0, 8, 81, 1) 100%);
+          background: linear-gradient(90deg, rgba(1, 30, 65, 0.9) 0%, rgba(0, 8, 81, 1) 100%);
+          background: linear-gradient(90deg, rgba(1, 30, 65, 0.9) 0%, rgba(0, 8, 81, 1) 100%);
+          background: linear-gradient(90deg, rgba(1, 30, 65, 0.9) 0%, rgba(0, 8, 81, 1) 100%);
+      }
+      
+      .page-services-container .btn-success-gradiant:hover {
+              background: #1dc8cc;
+          background: -webkit-linear-gradient(legacy-direction(to right), #1dc8cc 0%, #2cdd9b 100%);
+          background: -webkit-gradient(linear, left top, right top, from(#1dc8cc), to(#2cdd9b));
+          background: -webkit-linear-gradient(left, #1dc8cc 0%, #2cdd9b 100%);
+          background: -o-linear-gradient(left, #1dc8cc 0%, #2cdd9b 100%);
+          background: linear-gradient(to right, #1dc8cc 0%, #2cdd9b 100%);	
+      }
+      
+      .page-services-container .btn-md {
+          padding: 15px 45px;
+          font-size: 16px;
+      }
+
+
 
 
     .loader__main_container {

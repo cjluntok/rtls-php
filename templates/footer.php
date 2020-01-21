@@ -4,6 +4,7 @@
                   <div class="row">
                     <div class="col-md-6 col-sm-12 col-lg-3 mb-3 text-center">
                             <img src="assets/images/rtls-logo.png" alt="Logo" class="img-fluid">
+                            <img src="assets/images/wwsi.jpeg" alt="Logo of WWSI" class="img-fluid">
                     </div>
                     <div class="col-md-12 col-lg-9 col-sm-12">
 
@@ -45,7 +46,7 @@
                     </div>
                       <div class="col-md-12">
                         <div class="py-4 d-flex justify-content-center align-items-center footer-copyright">
-                          <p class="">Copyright © <?= date('Y'); ?> - <strong>RTLS Advisory Services</strong></p>
+                          <p class="">Copyright © <?= date('Y'); ?> - <strong>RTLS Advisory Services</strong> of <strong><a target="_blank" href="https://wwsinternational.com.au/">Wired & Wireless Solutions International</strong></a></p>
                         </div>
                       </div>
                   </div>
