@@ -20,7 +20,7 @@
                                 <div class="card services-card card-shadow border-0 mb-4">
                                     <div class="p-4 card-content">
                                         <div class="icon-space">
-                                            <div class="icon-round text-center d-inline-block bg-success-gradiant">Wifi</div>
+                                            <div class="icon-round text-center d-inline-block bg-success-gradiant">Wi-Fi</div>
                                         </div>
                                         <h6 class="font-weight-medium">Airista</h6>
                                         <p class="mt-3">Your trusted partner in workplace safety and performance as a leading global provider of location-based business solutions. Make decisions fast and keep your staff safe by tapping into our expertise and flexible real-time location services.</p>
