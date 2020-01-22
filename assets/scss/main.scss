@@ -332,6 +332,8 @@ p {
 
     .navbar i {
         margin-right:10px;
+        min-width: 20px;
+        text-align: center;
     }
 
     .navbar a {
@@ -484,7 +486,6 @@ p {
         padding-left:0;
         padding-right:0;
     }
-
     & .page-content-inner {
         padding-top:0;
         padding-bottom: 3em;
@@ -492,6 +493,7 @@ p {
             font-size:3.6em;
             font-weight:800;
             color:$base-dark;
+            padding-top:20px;
             margin-bottom:20px;
             text-transform: uppercase;
             text-align:center;
@@ -556,12 +558,25 @@ p {
 
 }
 
-
+.app-title {
+    margin-bottom:30px;
+    h1 {
+        margin:10px 0;
+        font-size:4.6em;
+        font-weight:800;
+        color:$base-dark;
+        text-transform: uppercase;
+        
+    }
+    p {
+        margin-top:0 !important;
+    }     
+}
 
 .asset {
     
     &.asset--1 {
-    padding:60px 0;
+    padding:30px 0;
         & .page-content-title {
             width:100%;
             text-align:left;
@@ -650,7 +665,7 @@ p {
 .hygiene {
     
     &.hygiene--1 {
-    padding:60px 0 0 0;
+    padding:0;
         & .page-content-inner {
             padding-bottom:0;
         }
@@ -1196,20 +1211,27 @@ p {
         font-family: "Montserrat", sans-serif;
         color: #8d97ad !important;
         font-weight: 300;
-        min-height:475px;
+        // min-height:475px;
 
         & p {
-            color:inherit !important;
+            color:inherit;
         }
 
         .services-card {
-            min-height:330px;
+            min-height:390px;
             transition:all 0.3s ease;
             cursor:pointer;
         }
 
         .services-card:hover {
             margin-top:-.25rem;
+        }
+
+        .wrap-service11-box {
+            a {
+                text-decoration: none;
+                color:inherit;
+            }
         }
       }
       
@@ -1240,7 +1262,7 @@ p {
       }
       
       .page-services-container .wrap-service11-box .icon-space {
-        margin: -50px 0 20px;
+        margin: -50px -10px 20px;
       }
       
       .page-services-container .wrap-service11-box .icon-space .icon-round {
@@ -1373,6 +1395,89 @@ p {
       }
 
 
+      .page-app-example {
+          color: #8d97ad;
+            font-weight: 300;
+          padding-top: 80px;
+
+          p {
+              font-size:1.6em;
+              font-weight:500;
+          }
+      }
+      
+      .page-app-example  {
+
+      }
+
+      .page-app-black {
+          color:black;
+          padding-top:120px;
+          position:relative;
+          z-index:2;
+          h2 {
+              color:inherit;
+          }
+
+          p {
+              color:inherit;
+          }
+      }
+      
+      .page-app-example h2 {
+          line-height: 40px;
+          font-size: 3.6em;
+      }
+      
+      .page-app-example .middle-image {
+        margin-top: 50px;
+        margin-bottom: -100px;
+      }
+      
+      .page-app-example .left-right-bg {
+        background-repeat: no-repeat;
+        background-position: left center, right center;
+      }
+      
+      @media (max-width: 767px) {
+        .page-app-example .left-right-bg {
+          background-image: none !important;
+        }
+      }
+      
+      .page-app-example.bg-first-gradiant {
+          background: linear-gradient(90deg, rgba(1, 30, 65, 0.9) 0%, rgb(9, 32, 107) 100%);
+      }
+
+      .page-app
+      
+      .page-app-example .btn-md {
+          padding: 15px 45px;
+          font-size: 16px;
+      }
+      
+      .page-app-example  {
+        .btn-light:hover,
+        .btn-dark:hover {
+             background: $base-dark;
+          color: #ffffff;
+          border-color: $base-dark;
+        }
+
+   
+          
+      }
+
+      .page-app-last {
+          padding-top:150px;
+          .middle-image {
+              margin-bottom:0;
+          }
+      }
+
+
+
+
       @media screen and (max-width: 767px ) {
         #top-text {
             display:none;
@@ -1382,7 +1487,23 @@ p {
 
          /* Medium devices (tablets, 768px and up) */
 @media (min-width: 576px) and (max-width: 991.98px) { 
+    .page-app-example {
+        padding-top:40px;
+    }
 
+    .page-app-example .middle-image {
+        margin-top:25px;
+    }
+    .page-app-black {
+        padding-top:120px;
+    }
+    .page-app-black.page-app-last {
+        padding-top:130px;
+
+        & .middle-image {
+            margin-bottom:20px;
+        }
+    }
     .page-bgtext-container .page-content-inner .page-content-img img {
         max-width:100%;
     }
@@ -1466,6 +1587,21 @@ p {
 
 /* Small devices (landscape phones, 576px and up) */
 @media (max-width: 575.98px) { 
+
+
+    .page-app-last {
+        padding-top:40px;
+    }
+
+    .page-app-black {
+        padding-top:40px; 
+    }
+    .page-app-example .middle-image {
+        margin-bottom:20px;
+    }
+    .app-title h1 {
+        font-size:3.6em;
+    }
 
     .page-banner-container.home-banner {
         height:initial;

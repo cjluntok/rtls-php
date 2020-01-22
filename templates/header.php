@@ -9,18 +9,17 @@
 
 
   <!-- SEO TAGS -->
-  <meta name="description" content="State of the art Real Time location systems on your technology of choice.">
+  <meta name="description" content="State of the art Real Time location systems on your technology of choice. Real Time Location Services and equipments.">
   <meta name="title" content="RTLS Advisory Services | RTLS Solutions | Real Time Location Services">
   <meta name="keywords" content="Duress,Safety,Security,Twig,Personal Transmitters,person down,PACCS,PACCS systems,duress button,DECT systems,Ekahau WiFi,PAC Network,PAC Radio,PAC,Wide Area GSM,2G,3G,Personnel Tracking,SPOT,Shout Nano,PACCS-PVTSAT,Iridium Extreme,PACCS-SGSAT,In Building Solutions,IBS,Outdoor Solutions,OS,Cellular networks,CDMA, LTE,Wi-Fi networks,IEEE802.11 ac, Hotspot2.0, BYOD,WiMAX networks,Tetra Networks,Tetra MOU,RFID,RTLS,Wifi RTLS, UHF RTLS, VHF RTLS,Automation radios,industrial wireless,RTU, PLC, monitoring, I/O applications, serial, RS485, Industrial ethernet,Asset Tracking,Mapping,Monitoring,Twig Protector,Alarm,SGSAT">
   <meta name='url' content='https://<?= $_SERVER['HTTP_HOST']?>'>
-  <meta name="author" content="">
   <link rel="canonical" href="https://<?= $_SERVER['HTTP_HOST']?>">
   <meta name='Classification' content='Business'>
   <meta property="og:title" content="RTLS Advisory Services | RTLS Solutions | Real Time Location Services" />
   <meta property="og:type" content="website" />
   <meta property="og:url" content="https://<?= $_SERVER['HTTP_HOST']?>" />
   <meta property="og:image" content="https://<?= $_SERVER['HTTP_HOST'] ?>/assets/images/ogImage.jpg" />
-  <meta property="og:description" content="DESCRIPTION">
+  <meta property="og:description" content="State of the art Real Time location systems on your technology of choice. Real Time Location Services and equipments.">
   <meta property="og:site_name" content="RTLS Advisory Services" />
 
   

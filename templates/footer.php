@@ -9,11 +9,13 @@
                     <div class="col-md-12 col-lg-9 col-sm-12">
 
                       <div class="col-md-4 col-sm-6 col-6 p-0 float-left mb-3">
-                            <h5 class="mb-4 font-weight-bold text-uppercase">Products</h5>
+                            <h5 class="mb-4 font-weight-bold text-uppercase">Technologies</h5>
                             <hr>
                           <ul class="list-group">
-                            <li class="list-group-item bg-transparent border-0 p-0 mb-2"><a href="software">Software</a></li>
-                            <li class="list-group-item bg-transparent border-0 p-0 mb-2"><a href="hardware">Hardware</a></li>
+                            <li class="list-group-item bg-transparent border-0 p-0 mb-2"><a href="wifi-technology">Wi-Fi Technology</a></li>
+                            <li class="list-group-item bg-transparent border-0 p-0 mb-2"><a href="cellular-technology">Cellular Technology</a></li>
+                            <li class="list-group-item bg-transparent border-0 p-0 mb-2"><a href="rf-technology">Radio Frequency Technology</a></li>
+                            <li class="list-group-item bg-transparent border-0 p-0 mb-2"><a href="bluetooth-technology">Bluetooth Technology</a></li>
                           </ul>
                       </div>
 
@@ -21,11 +23,10 @@
                             <h5 class="mb-4 font-weight-bold text-uppercase">Applications</h5>
                             <hr>
                           <ul class="list-group">
-                            <li class="list-group-item bg-transparent border-0 p-0 mb-2"><a href="asset-tracking">Asset Tracking</a></li>
-                            <li class="list-group-item bg-transparent border-0 p-0 mb-2"><a href="personnel-safety">Personnel Safety</a></li>
-                            <li class="list-group-item bg-transparent border-0 p-0 mb-2"><a href="hand-hygiene-compliance">Hand Hygiene Compliance</a></li>
-                            <li class="list-group-item bg-transparent border-0 p-0 mb-2"><a href="temperature-monitoring">Temperature Monitoring</a></li>
-                            <li class="list-group-item bg-transparent border-0 p-0 mb-2"><a href="workflow-process-capture">Workflow Process Capture</a></li>
+                            <li class="list-group-item bg-transparent border-0 p-0 mb-2"><a href="airista-application">Airista Application</a></li>
+                            <li class="list-group-item bg-transparent border-0 p-0 mb-2"><a href="twig-com-application">TWIG Com Application</a></li>
+                            <li class="list-group-item bg-transparent border-0 p-0 mb-2"><a href="mini-paccs-application">Mini PACCS Application</a></li>
+                            <li class="list-group-item bg-transparent border-0 p-0 mb-2"><a href="quuppa-application">Quuppa Application</a></li>
                           </ul>
                       </div>  
 

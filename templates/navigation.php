@@ -32,25 +32,26 @@
                                 <li class="nav-item <?php if($title == 'home') echo 'active';?>">
                                   <a class="nav-link" href="../airista">Home</a>
                                 </li>
-                                <li class="nav-item dropdown <?= ($title == 'software' or $title == 'hardware') ? 'active' : ''?>">
+                                <li class="nav-item dropdown <?= ($page == 'tech' ) ? 'active' : ''?>">
                                         <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                                            Products
+                                            Techologies
                                         </a>
                                         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                                            <a class="dropdown-item <?= ($title == 'software') ? 'active' : ''?>" href="software"><i class="fas fa-caret-right"></i>Software</a>
-                                            <a class="dropdown-item <?= ($title == 'hardware') ? 'active' : ''?>" href="hardware"><i class="fas fa-caret-right"></i>Hardware</a>
+                                            <a class="dropdown-item <?= ($name == 'wifi') ? 'active' : ''?>" href="wifi-technology"><i class="fas fa-wifi"></i>Wi-Fi RTLS Technology</a>
+                                            <a class="dropdown-item <?= ($name == 'cellular') ? 'active' : ''?>" href="cellular-technology"><i class="fas fa-mobile-alt"></i>Cellular RTLS Technology</a>
+                                            <a class="dropdown-item <?= ($name == 'rf') ? 'active' : ''?>" href="rf-technology"><i class="fas fa-broadcast-tower"></i>Radio Frequency RTLS Technology</a>
+                                            <a class="dropdown-item <?= ($name == 'bluetooth') ? 'active' : ''?>" href="bluetooth-technology"><i class="fab fa-bluetooth"></i>Bluetooth RTLS Technology</a>
                                         </div>
                                 </li>
-                                <li class="nav-item dropdown <?= ($page == 'solution') ? 'active' : ''?>">
+                                <li class="nav-item dropdown <?= ($page == 'app') ? 'active' : ''?>">
                                         <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                                            Applications
+                                            Examples
                                         </a>
                                         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                                            <a class="dropdown-item <?= ($name == 'asset-tracking') ? 'active' : ''?>" href="asset-tracking"><i class="fas fa-caret-right"></i>Asset Tracking</a>
-                                            <a class="dropdown-item <?= ($name == 'personnel-safety') ? 'active' : ''?>" href="personnel-safety"><i class="fas fa-caret-right"></i>Personnel Safety</a>
-                                            <a class="dropdown-item <?= ($name == 'hand-hygiene-compliance') ? 'active' : ''?>" href="hand-hygiene-compliance"><i class="fas fa-caret-right"></i>Hand Hygiene Compliance</a>
-                                            <a class="dropdown-item <?= ($name == 'temperature-monitoring') ? 'active' : ''?>" href="temperature-monitoring"><i class="fas fa-caret-right"></i>Temperature Monitoring</a>
-                                            <a class="dropdown-item <?= ($name == 'workflow-process-capture') ? 'active' : ''?>" href="workflow-process-capture"><i class="fas fa-caret-right"></i>Workflow & Process Capture</a>
+                                            <a class="dropdown-item <?= ($name == 'airista-app') ? 'active' : ''?>" href="airista-application"><i class="fas fa-caret-right"></i>Airista Application</a>
+                                            <a class="dropdown-item <?= ($name == 'twig-com-app') ? 'active' : ''?>" href="twig-com-application"><i class="fas fa-caret-right"></i>TWIG Com Application</a>
+                                            <a class="dropdown-item <?= ($name == 'mini-paccs-app') ? 'active' : ''?>" href="mini-paccs-application"><i class="fas fa-caret-right"></i>Mini PACCS Application</a>
+                                            <a class="dropdown-item <?= ($name == 'quupa-app') ? 'active' : ''?>" href="quuppa-application"><i class="fas fa-caret-right"></i>Quuppa Application</a>
 
                                         </div>
                                 </li>
