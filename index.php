@@ -38,7 +38,7 @@
                                                 <div class="icon-round text-center d-inline-block bg-success-gradiant">Cellular RTLS</div>
                                             </div>
                                             <h6 class="font-weight-medium">TWIG Com</h6>
-                                            <p class="mt-3">Europe's leading cellular GPS location system for people on the move. Outdoors, with GPA and Indoors with Twig Point Monitor.</p>
+                                            <p class="mt-3">Europe's leading cellular GPS location system for people on the move. Outdoors, with GPS and Indoors with Twig Point Monitor.</p>
                                         </div>
                                     </div>
                                 </a>
@@ -52,7 +52,7 @@
                                                 <div class="icon-round text-center d-inline-block bg-success-gradiant">RF RTLS</div>
                                             </div>
                                             <h6 class="font-weight-medium">Mini PACCS</h6>
-                                            <p class="mt-3">Fixed location systems for all indoor location needs with fixed location and portable buttons.</p>
+                                            <p class="mt-3">Fixed location systems for all indoor location needs with fixed and portable buttons.</p>
                                         </div>
                                     </div>
                                 </a>                               
