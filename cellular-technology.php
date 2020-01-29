@@ -12,8 +12,8 @@
 <section class="page-content page-tech-container">
     <div class="page-content-item">
         <div class="page-content-inner container">
-            <h2 class="page-content-title">Cellular</h2>
-            <p>Cellular (GSM, CDMA) communication, like for cell phones, can also provide RTLS. In many countries, mobile phones enjoy high penetration rates - exceeding 100 percent in some countries because some people carry 
+            <h2 class="page-content-title wow fadeInUp">Cellular</h2>
+            <p class="wow fadeInUp">Cellular (GSM, CDMA) communication, like for cell phones, can also provide RTLS. In many countries, mobile phones enjoy high penetration rates - exceeding 100 percent in some countries because some people carry 
                 more than one mobile phone. Therefore, cellular network-based positioning is a highly suitable option with the potential of widespread deploment
             </p>
         </div>
@@ -52,4 +52,7 @@
         </div>
     </div>
 </section>
+
+
+
 <?php include_once('templates/footer.php'); ?>

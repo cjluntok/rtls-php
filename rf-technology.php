@@ -23,8 +23,8 @@
 <section class="page-content page-tech-container">
     <div class="page-content-item">
         <div class="page-content-inner container">
-            <h2 class="page-content-title"> Active RFID</h2>
-            <p>Radio Frequency Identification (RFID) is one of the more popular wireless standards used in RTLS. Usually the ‘active’ variety, which means the tags carry a small battery to boost signal strength. The receiving sensors determine tag location by calculating signal strength as assets move through a facility.
+            <h2 class="page-content-title wow fadeInUp"> Active RFID</h2>
+            <p class="wow fadeInUp">Radio Frequency Identification (RFID) is one of the more popular wireless standards used in RTLS. Usually the ‘active’ variety, which means the tags carry a small battery to boost signal strength. The receiving sensors determine tag location by calculating signal strength as assets move through a facility.
             </p>
         </div>
     </div>
@@ -64,6 +64,18 @@
         </div>
     </div>
 </section>
+
+<section class="page-content page-tech-container">
+    <div class="page-content-item">
+        <div class="page-content-inner container">
+            <h2 class="page-content-title wow fadeInUp">Passive RFID</h2>
+            <p class="wow fadeInUp">Passive RFID, which employs simple, battery-free tags and high-power readers, is commonly used in places like libraries and retail stores. The readers send out a low-frequency radio signal that transmits so much energy over the air that the tag’s collector antenna picks up its radio waves with brute force. The tag then transmits back to the reader using a different frequency.
+            </p>
+        </div>
+    </div>
+</section>
+
+
 
 
 <?php include_once('templates/footer.php'); ?>

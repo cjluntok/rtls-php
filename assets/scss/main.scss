@@ -517,6 +517,7 @@ p {
     }
 }
 
+
 .page-content-item {
     margin-top:35px;
 }
@@ -557,6 +558,17 @@ p {
 
 
 }
+
+.page-twig .page-content-item {
+    margin-top: 15px;
+}
+
+.page-twig {
+    .page-2-col {
+        padding:0;
+    }
+}
+
 
 .app-title {
     margin-bottom:30px;
@@ -1048,8 +1060,7 @@ p {
         & .card {
             width:100%;
             height:100%;
-            padding:30px;
-            margin-bottom:30px;
+            padding:15px;
             -webkit-box-shadow: 0 3px 15px rgba(0, 0, 0, 0.16);
             box-shadow: 0 3px 15px rgba(0, 0, 0, 0.16);
             display: -webkit-box;
@@ -1075,8 +1086,8 @@ p {
                 font-weight:700;
                 text-transform:uppercase;
                 color:white;
-                padding:30px;
-                margin:-30px -30px 30px;
+                padding:15px 30px;
+                margin:-15px -15px 15px;
             }
 
             & .card_body {
@@ -1339,6 +1350,19 @@ p {
     }
 
 
+        .bottom-contact-partial-container {
+            font-size:1.6em !important;
+        }
+
+        .page-bottom-contact {
+            .page-contact-item {
+                padding:0;
+                margin-top:0;
+            }
+        }
+    
+
+
     .sk-chase {
         width: 40px;
         height: 40px;
@@ -1412,7 +1436,6 @@ p {
 
       .page-app-black {
           color:black;
-          padding-top:120px;
           position:relative;
           z-index:2;
           h2 {
@@ -1470,6 +1493,7 @@ p {
 
       .page-app-last {
           padding-top:150px;
+          padding-bottom:60px;
           .middle-image {
               margin-bottom:0;
           }
@@ -1583,6 +1607,9 @@ p {
         padding-bottom: 20px;
     }
 }
+
+
+
 
 
 /* Small devices (landscape phones, 576px and up) */

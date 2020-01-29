@@ -1,4 +1,17 @@
   
+
+ <?php   if($template):
+          if($template != 'home'): ?>
+<section class="page-content page-bottom-contact"> 
+<div class="page-content-item container">
+<?php include_once('partials/bottom-contact-partial.php');?>
+</div>
+        <?php else: 
+          endif;
+        endif;  
+        ?>
+
+</section>
           <footer id="page-footer-container" class="page-footer-container">
                 <div class="container pt-5">
                   <div class="row">
@@ -12,10 +25,10 @@
                             <h5 class="mb-4 font-weight-bold text-uppercase">Technologies</h5>
                             <hr>
                           <ul class="list-group">
-                            <li class="list-group-item bg-transparent border-0 p-0 mb-2"><a href="wifi-technology">Wi-Fi Technology</a></li>
-                            <li class="list-group-item bg-transparent border-0 p-0 mb-2"><a href="cellular-technology">Cellular Technology</a></li>
-                            <li class="list-group-item bg-transparent border-0 p-0 mb-2"><a href="rf-technology">Radio Frequency Technology</a></li>
-                            <li class="list-group-item bg-transparent border-0 p-0 mb-2"><a href="bluetooth-technology">Bluetooth Technology</a></li>
+                            <li class="list-group-item bg-transparent border-0 p-0 mb-2"><a href="wifi-technology">RTLS by WI-Fi</a></li>
+                            <li class="list-group-item bg-transparent border-0 p-0 mb-2"><a href="cellular-technology">RTLS by Cellular</a></li>
+                            <li class="list-group-item bg-transparent border-0 p-0 mb-2"><a href="rf-technology">RTLS by RF</a></li>
+                            <li class="list-group-item bg-transparent border-0 p-0 mb-2"><a href="bluetooth-technology">RTLS by Bluetooth</a></li>
                           </ul>
                       </div>
 
@@ -59,8 +72,8 @@
   <script src="assets/js/vendor/modernizr-3.7.1.min.js"></script>
 
   <script>window.jQuery || document.write('<script src="js/vendor/jquery-3.4.1.min.js"><\/script>')</script>
-  <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
   
+  <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
   <script>
   
     $(document).ready(function() {
@@ -72,8 +85,8 @@
       }
     })
   </script>
-  <script src="dist/wow.min.js"></script>
   <script src="dist/bootstrap/js/bootstrap.min.js"></script>
+  <script src="dist/wow.min.js"></script>
   <script src="assets/js/main.js"></script>
   <!-- Google Analytics: change UA-XXXXX-Y to be your site's ID. -->
   <script>

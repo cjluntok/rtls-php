@@ -34,13 +34,13 @@
                                 </li>
                                 <li class="nav-item dropdown <?= ($page == 'tech' ) ? 'active' : ''?>">
                                         <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                                            Techologies
+                                            Technologies
                                         </a>
                                         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                                            <a class="dropdown-item <?= ($name == 'wifi') ? 'active' : ''?>" href="wifi-technology"><i class="fas fa-wifi"></i>Wi-Fi RTLS Technology</a>
-                                            <a class="dropdown-item <?= ($name == 'cellular') ? 'active' : ''?>" href="cellular-technology"><i class="fas fa-mobile-alt"></i>Cellular RTLS Technology</a>
-                                            <a class="dropdown-item <?= ($name == 'rf') ? 'active' : ''?>" href="rf-technology"><i class="fas fa-broadcast-tower"></i>Radio Frequency RTLS Technology</a>
-                                            <a class="dropdown-item <?= ($name == 'bluetooth') ? 'active' : ''?>" href="bluetooth-technology"><i class="fab fa-bluetooth"></i>Bluetooth RTLS Technology</a>
+                                            <a class="dropdown-item <?= ($name == 'wifi') ? 'active' : ''?>" href="wifi-technology"><i class="fas fa-wifi"></i>RTLS by WI-Fi</a>
+                                            <a class="dropdown-item <?= ($name == 'cellular') ? 'active' : ''?>" href="cellular-technology"><i class="fas fa-mobile-alt"></i>RTLS by Cellular</a>
+                                            <a class="dropdown-item <?= ($name == 'rf') ? 'active' : ''?>" href="rf-technology"><i class="fas fa-broadcast-tower"></i>RTLS by RF</a>
+                                            <a class="dropdown-item <?= ($name == 'bluetooth') ? 'active' : ''?>" href="bluetooth-technology"><i class="fab fa-bluetooth"></i>RTLS by Bluetooth</a>
                                         </div>
                                 </li>
                                 <li class="nav-item dropdown <?= ($page == 'app') ? 'active' : ''?>">
