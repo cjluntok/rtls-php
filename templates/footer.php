@@ -16,7 +16,7 @@
                 <div class="container pt-5">
                   <div class="row">
                     <div class="col-md-6 col-sm-12 col-lg-3 mb-3 text-center">
-                            <img src="assets/images/rtls-logo.png" alt="Logo" class="img-fluid">
+                            <img src="assets/images/rtls-logo-footer.png" alt="Logo" class="img-fluid">
                             <img src="assets/images/wwsi.jpeg" alt="Logo of WWSI" class="img-fluid">
                     </div>
                     <div class="col-md-12 col-lg-9 col-sm-12">

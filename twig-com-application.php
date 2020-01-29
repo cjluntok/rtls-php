@@ -40,4 +40,6 @@
         </div>
     </div>
 </section>
+
+
 <?php include_once('templates/footer.php'); ?>
