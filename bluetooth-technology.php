@@ -34,21 +34,21 @@
                             <div class="row card_body">
                                 <div class="col-md-6">
                                     <ul>
-                                        <li><strong>Standards-based</strong></li>
-                                        <li><strong>Low Power Consumption</strong></li>
-                                        <li><strong>Tracking without tags</strong></li>
-                                        <li><strong>High Accuracy</strong></li>
-                                        <li><strong>Multipurpose Network</strong></li>
-                                        <li><strong>No LOS (Line of Sight) Needed</strong> </li>
+                                        <li class="wow fadeInUp"><strong>Standards-based</strong></li>
+                                        <li class="wow fadeInUp"><strong>Low Power Consumption</strong></li>
+                                        <li class="wow fadeInUp"><strong>Tracking without tags</strong></li>
+                                        <li class="wow fadeInUp"><strong>High Accuracy</strong></li>
+                                        <li class="wow fadeInUp"><strong>Multipurpose Network</strong></li>
+                                        <li class="wow fadeInUp"><strong>No LOS (Line of Sight) Needed</strong> </li>
                                     </ul>
                                 </div>
                                 <div class="col-md-6">
                                     <ul>                                        
-                                        <li><strong>It's Everywhere</strong> </li>                                        
-                                        <li><strong>Super low cost</strong> </li>
-                                        <li><strong>Better battery life</strong> </li>
-                                        <li><strong>Asset tracking</strong> </li>
-                                        <li><strong>Monitoring staff, facility security & safety</strong> </li>
+                                        <li class="wow fadeInUp"><strong>It's Everywhere</strong> </li>                                        
+                                        <li class="wow fadeInUp"><strong>Super low cost</strong> </li>
+                                        <li class="wow fadeInUp"><strong>Better battery life</strong> </li>
+                                        <li class="wow fadeInUp"><strong>Asset tracking</strong> </li>
+                                        <li class="wow fadeInUp"><strong>Monitoring staff, facility security & safety</strong> </li>
                                     </ul> 
                                 </div> 
                             </div>

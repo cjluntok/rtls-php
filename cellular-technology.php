@@ -32,16 +32,16 @@
                             <div class="row card_body">
                                 <div class="col-md-6">
                                     <ul>
-                                        <li><strong>No Interference</strong></li>
-                                        <li><strong>Wide Range</strong></li>
-                                        <li><strong>Widely Available</strong></li>
-                                        <li><strong>Works Indoors and urban areas</strong></li>
+                                        <li class="wow fadeInUp"><strong>No Interference</strong></li>
+                                        <li class="wow fadeInUp"><strong>Wide Range</strong></li>
+                                        <li class="wow fadeInUp"><strong>Widely Available</strong></li>
+                                        <li class="wow fadeInUp"><strong>Works Indoors and urban areas</strong></li>
                                     </ul>
                                 </div>
                                 <div class="col-md-6">
                                     <ul>
-                                        <li><strong>No addtional tags for people</strong></li>
-                                        <li><strong>Quick Computation</strong></li>
+                                        <li class="wow fadeInUp"><strong>No addtional tags for people</strong></li>
+                                        <li class="wow fadeInUp"><strong>Quick Computation</strong></li>
                                     </ul>
                                 </div>
 

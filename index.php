@@ -23,8 +23,8 @@
                                             <div class="icon-space">
                                                 <div class="icon-round text-center d-inline-block bg-success-gradiant">Wi-Fi RTLS</div>
                                             </div>
-                                            <h6 class="font-weight-medium">Airista</h6>
-                                            <p class="mt-3">Your trusted partner in workplace safety and performance as a leading global provider of location-based business solutions. Make decisions fast and keep your staff safe by tapping into our expertise and flexible real-time location services.</p>
+                                            <h6 class="font-weight-medium wow fadeInUp">Airista</h6>
+                                            <p class="mt-3 wow fadeInUp">Your trusted partner in workplace safety and performance as a leading global provider of location-based business solutions. Make decisions fast and keep your staff safe by tapping into our expertise and flexible real-time location services.</p>
                                         </div>
                                     </div>
                                 </a>                        
@@ -37,8 +37,8 @@
                                             <div class="icon-space">
                                                 <div class="icon-round text-center d-inline-block bg-success-gradiant">Cellular RTLS</div>
                                             </div>
-                                            <h6 class="font-weight-medium">TWIG Com</h6>
-                                            <p class="mt-3">Europe's leading cellular GPS location system for people on the move. Outdoors, with GPS and Indoors with Twig Point Monitor.</p>
+                                            <h6 class="font-weight-medium wow fadeInUp">TWIG Com</h6>
+                                            <p class="mt-3 wow fadeInUp">Europe's leading cellular GPS location system for people on the move. Outdoors, with GPS and Indoors with Twig Point Monitor.</p>
                                         </div>
                                     </div>
                                 </a>
@@ -51,8 +51,8 @@
                                             <div class="icon-space">
                                                 <div class="icon-round text-center d-inline-block bg-success-gradiant">RF RTLS</div>
                                             </div>
-                                            <h6 class="font-weight-medium">Mini PACCS</h6>
-                                            <p class="mt-3">Fixed location systems for all indoor location needs with fixed and portable buttons.</p>
+                                            <h6 class="font-weight-medium wow fadeInUp">Mini PACCS</h6>
+                                            <p class="mt-3 wow fadeInUp">Fixed location systems for all indoor location needs with fixed and portable buttons.</p>
                                         </div>
                                     </div>
                                 </a>                               
@@ -65,8 +65,8 @@
                                             <div class="icon-space">
                                                 <div class="icon-round text-center d-inline-block bg-success-gradiant">Bluetooth RTLS</div>
                                             </div>
-                                            <h6 class="font-weight-medium">Quuppa</h6>
-                                            <p class="mt-3">Instant Real Time Location and tracking with centimetre accuracy.</p>
+                                            <h6 class="font-weight-medium wow fadeInUp">Quuppa</h6>
+                                            <p class="mt-3 wow fadeInUp">Instant Real Time Location and tracking with centimetre accuracy.</p>
                                         </div>
                                     </div>
                                 </a>                                
@@ -83,8 +83,8 @@
             <section class="page-content page-software-card-container">
                 <div class="page-content-item">
                     <div class="page-content-inner container">
-                        <h2 class="page-content-title">UNIFIED VISION SOLUTION FOR RTLS</h2>
-                        <p>Our end-to-end solution provides visibility for the location and condition of people and assets at work. At the heart of the solution is a software platform that ties this information to customers’ processes to help make better business decisions. Unlike RTLS solutions that operate as islands, the UVS platform combines information from assets company wide delivering insight across the delivery chain. The rich workflow engine has the flexibility to model virtually any business process. UVS has proven to be the enterprise RTLS platform that breaks traditional silos of asset visibility to create a unified view across the enterprise.</p>
+                        <h2 class="page-content-title wow fadeInUp">UNIFIED VISION SOLUTION FOR RTLS</h2>
+                        <p class="wow fadeInUp">Our end-to-end solution provides visibility for the location and condition of people and assets at work. At the heart of the solution is a software platform that ties this information to customers’ processes to help make better business decisions. Unlike RTLS solutions that operate as islands, the UVS platform combines information from assets company wide delivering insight across the delivery chain. The rich workflow engine has the flexibility to model virtually any business process. UVS has proven to be the enterprise RTLS platform that breaks traditional silos of asset visibility to create a unified view across the enterprise.</p>
                         <div class="row page-software-card">
 
                             <div class="col-md-6">
@@ -94,12 +94,12 @@
                                     </h3>
                                     <div class="card_body">
                                         <ul>
-                                            <li>Wi-Fi</li>
-                                            <li>GPS</li>
-                                            <li>Bluetooth Low Energy (BLE)</li>
-                                            <li>Infrared (IR)</li>
-                                            <li>Passive Radio-Frequency Identification (RFID)</li>
-                                            <li>Third-Party (Cellular, Satellite, UWB, LoRa)</li>
+                                            <li class="wow fadeInUp">Wi-Fi</li>
+                                            <li class="wow fadeInUp">GPS</li>
+                                            <li class="wow fadeInUp">Bluetooth Low Energy (BLE)</li>
+                                            <li class="wow fadeInUp">Infrared (IR)</li>
+                                            <li class="wow fadeInUp">Passive Radio-Frequency Identification (RFID)</li>
+                                            <li class="wow fadeInUp">Third-Party (Cellular, Satellite, UWB, LoRa)</li>
                                         </ul>
                                     </div>
                                 </div>
@@ -111,14 +111,14 @@
                                     </h3>
                                     <div class="card_body">
                                         <ul>
-                                            <li>Location</li>
-                                            <li>Temperature</li>
-                                            <li>Humidity</li>
-                                            <li>Vibration</li>
-                                            <li>Motion & Direction</li>
-                                            <li>Man-Down</li>
-                                            <li>Intrinsically Safe (Explosion Proof)</li>
-                                            <li>Indoor & Outdoor</li>
+                                            <li class="wow fadeInUp">Location</li>
+                                            <li class="wow fadeInUp">Temperature</li>
+                                            <li class="wow fadeInUp">Humidity</li>
+                                            <li class="wow fadeInUp">Vibration</li>
+                                            <li class="wow fadeInUp">Motion & Direction</li>
+                                            <li class="wow fadeInUp">Man-Down</li>
+                                            <li class="wow fadeInUp">Intrinsically Safe (Explosion Proof)</li>
+                                            <li class="wow fadeInUp">Indoor & Outdoor</li>
                                         </ul>
                                     </div>
                                 </div>
@@ -147,8 +147,8 @@
                             <div class="row justify-content-center ">
                                 <!-- Column -->
                                 <div class="col-md-10 col-lg-8 align-self-center text-center">
-                                <h2 class="title text-white">Airista</h2>
-                                <p class="text-white">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corrupti quidem commodi quaerat tenetur, fugit nobis maiores reiciendis error amet minus. Perspiciatis debitis repudiandae a, nisi dolores exercitationem. Placeat, quasi velit?</p>
+                                <h2 class="title text-white wow fadeInUp">Airista</h2>
+                                <p class="text-white wow fadeInUp">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corrupti quidem commodi quaerat tenetur, fugit nobis maiores reiciendis error amet minus. Perspiciatis debitis repudiandae a, nisi dolores exercitationem. Placeat, quasi velit?</p>
                                 <a class="btn rounded-pill btn-light btn-md mt-3 mr-2" href="airista-application">View Application</a> 
                                 </div>
                                 <!-- Column -->
@@ -168,8 +168,8 @@
                                 <div class="row justify-content-center ">
                                     <!-- Column -->
                                     <div class="col-md-10 col-lg-8 align-self-center text-center">
-                                    <h2 class="title">TWIG Com</h2>
-                                    <p class="">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corrupti quidem commodi quaerat tenetur, fugit nobis maiores reiciendis error amet minus. Perspiciatis debitis repudiandae a, nisi dolores exercitationem. Placeat, quasi velit?</p>
+                                    <h2 class="title wow fadeInUp">TWIG Com</h2>
+                                    <p class="wow fadeInUp">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corrupti quidem commodi quaerat tenetur, fugit nobis maiores reiciendis error amet minus. Perspiciatis debitis repudiandae a, nisi dolores exercitationem. Placeat, quasi velit?</p>
                                     <a class="btn rounded-pill btn-dark btn-md mt-3 mr-2" href="twig-com-application">View Application</a> 
                                     </div>
                                     <!-- Column -->
@@ -190,8 +190,8 @@
                                 <div class="row justify-content-center ">
                                     <!-- Column -->
                                     <div class="col-md-10 col-lg-8 align-self-center text-center">
-                                    <h2 class="title">Mini PACCS</h2>
-                                    <p class="">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corrupti quidem commodi quaerat tenetur, fugit nobis maiores reiciendis error amet minus. Perspiciatis debitis repudiandae a, nisi dolores exercitationem. Placeat, quasi velit?</p>
+                                    <h2 class="title wow fadeInUp">Mini PACCS</h2>
+                                    <p class="wow fadeInUp">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corrupti quidem commodi quaerat tenetur, fugit nobis maiores reiciendis error amet minus. Perspiciatis debitis repudiandae a, nisi dolores exercitationem. Placeat, quasi velit?</p>
                                     <a class="btn rounded-pill btn-dark btn-md mt-3 mr-2" href="mini-paccs-application">View Application</a> 
                                     </div>
                                     <!-- Column -->
@@ -211,8 +211,8 @@
                             <div class="row justify-content-center ">
                                 <!-- Column -->
                                 <div class="col-md-10 col-lg-8 align-self-center text-center">
-                                <h2 class="title">Quuppa</h2>
-                                <p class="">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corrupti quidem commodi quaerat tenetur, fugit nobis maiores reiciendis error amet minus. Perspiciatis debitis repudiandae a, nisi dolores exercitationem. Placeat, quasi velit?</p>
+                                <h2 class="title wow fadeInUp">Quuppa</h2>
+                                <p class="wow fadeInUp">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corrupti quidem commodi quaerat tenetur, fugit nobis maiores reiciendis error amet minus. Perspiciatis debitis repudiandae a, nisi dolores exercitationem. Placeat, quasi velit?</p>
                                 <a class="btn rounded-pill btn-dark btn-md mt-3 mr-2" href="quupa-application">View Application</a> 
                                 </div>
                                 <!-- Column -->
@@ -238,8 +238,8 @@
             <div class="page-content-inner container">
                 <div class="row">
                     <div class="col-md-6 page-content-text">
-                        <h2>Gartner</h2>
-                        <p>AiRISTA Flow Recognized in 2019 & 2018 Gartner Magic Quadrant for Indoor Location Services, Worldwide</p>
+                        <h2 class="wow fadeInLeft">Gartner</h2>
+                        <p class="wow fadeInUp">AiRISTA Flow Recognized in 2019 & 2018 Gartner Magic Quadrant for Indoor Location Services, Worldwide</p>
                     </div>
                     <div class="col-md-6 page-content-img">
                         <img src="assets/images/gartner.png" alt="Gartner-2019-MQ-Banner_White_Square" class="img-fluid">

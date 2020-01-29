@@ -51,6 +51,7 @@
   <link rel="stylesheet" href="dist/bootstrap/css/bootstrap.min.css">
   <link rel="stylesheet" href="dist/bootstrap/css/bootstrap-grid.min.css">  
   <link rel="stylesheet" href="dist/bootstrap/css/bootstrap-reboot.min.css">
+  <link rel="stylesheet" href="assets/css/animate.css">
   <link rel="stylesheet" href="assets/css/normalize.css">
   <link rel="stylesheet" href="assets/css/custom.min.css">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css">

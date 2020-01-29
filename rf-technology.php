@@ -42,19 +42,19 @@
                             <div class="row card_body">
                                 <div class="col-md-6">
                                     <ul>
-                                        <li><strong>No Line of Sight (LOS) Needed</strong></li>
-                                        <li><strong>Penetrates Non-metal Solids</strong></li>
-                                        <li><strong>Smaller Sensors</strong></li>
-                                        <li><strong>Passive ID tracking</strong></li>
-                                        <li><strong>Low cost technology</strong></li>
+                                        <li class="wow fadeInUp"><strong>No Line of Sight (LOS) Needed</strong></li>
+                                        <li class="wow fadeInUp"><strong>Penetrates Non-metal Solids</strong></li>
+                                        <li class="wow fadeInUp"><strong>Smaller Sensors</strong></li>
+                                        <li class="wow fadeInUp"><strong>Passive ID tracking</strong></li>
+                                        <li class="wow fadeInUp"><strong>Low cost technology</strong></li>
                                     </ul>
                                 </div>
                                 <div class="col-md-6">
                                     <ul>
-                                        <li><strong>No LOS Needed</strong> </li>
-                                        <li><strong>It's Everywhere</strong> </li>
-                                        <li><strong>Inventory management</strong> </li>
-                                        <li><strong>Personnel monitoring</strong> </li>
+                                        <li class="wow fadeInUp"><strong>No LOS Needed</strong> </li>
+                                        <li class="wow fadeInUp"><strong>It's Everywhere</strong> </li>
+                                        <li class="wow fadeInUp"><strong>Inventory management</strong> </li>
+                                        <li class="wow fadeInUp"><strong>Personnel monitoring</strong> </li>
                                     </ul> 
                                 </div> 
                             </div>

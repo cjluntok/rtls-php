@@ -72,6 +72,7 @@
       }
     })
   </script>
+  <script src="dist/wow.min.js"></script>
   <script src="dist/bootstrap/js/bootstrap.min.js"></script>
   <script src="assets/js/main.js"></script>
   <!-- Google Analytics: change UA-XXXXX-Y to be your site's ID. -->

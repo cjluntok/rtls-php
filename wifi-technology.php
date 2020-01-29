@@ -13,7 +13,7 @@
     <div class="page-content-item">
         <div class="page-content-inner container">
             <h2 class="page-content-title">UNIFIED VISION SOLUTION FOR RTLS</h2>
-            <p>Our end-to-end solution provides visibility for the location and condition of people and assets at work. At the heart of the solution is a software platform that ties this information to customers’ processes to help make better business decisions. Unlike RTLS solutions that operate as islands, the UVS platform combines information from assets company wide delivering insight across the delivery chain. The rich workflow engine has the flexibility to model virtually any business process. UVS has proven to be the enterprise RTLS platform that breaks traditional silos of asset visibility to create a unified view across the enterprise.</p>
+            <p class="wow fadeInUp">Our end-to-end solution provides visibility for the location and condition of people and assets at work. At the heart of the solution is a software platform that ties this information to customers’ processes to help make better business decisions. Unlike RTLS solutions that operate as islands, the UVS platform combines information from assets company wide delivering insight across the delivery chain. The rich workflow engine has the flexibility to model virtually any business process. UVS has proven to be the enterprise RTLS platform that breaks traditional silos of asset visibility to create a unified view across the enterprise.</p>
             <div class="row page-software-card">
 
                 <div class="col-md-6">
@@ -23,12 +23,12 @@
                         </h3>
                         <div class="card_body">
                             <ul>
-                                <li>Wi-Fi</li>
-                                <li>GPS</li>
-                                <li>Bluetooth Low Energy (BLE)</li>
-                                <li>Infrared (IR)</li>
-                                <li>Passive Radio-Frequency Identification (RFID)</li>
-                                <li>Third-Party (Cellular, Satellite, UWB, LoRa)</li>
+                                <li class="wow fadeInUp">Wi-Fi</li>
+                                <li class="wow fadeInUp">GPS</li>
+                                <li class="wow fadeInUp">Bluetooth Low Energy (BLE)</li>
+                                <li class="wow fadeInUp">Infrared (IR)</li>
+                                <li class="wow fadeInUp">Passive Radio-Frequency Identification (RFID)</li>
+                                <li class="wow fadeInUp">Third-Party (Cellular, Satellite, UWB, LoRa)</li>
                             </ul>
                         </div>
                     </div>
@@ -40,14 +40,14 @@
                         </h3>
                         <div class="card_body">
                             <ul>
-                                <li>Location</li>
-                                <li>Temperature</li>
-                                <li>Humidity</li>
-                                <li>Vibration</li>
-                                <li>Motion & Direction</li>
-                                <li>Man-Down</li>
-                                <li>Intrinsically Safe (Explosion Proof)</li>
-                                <li>Indoor & Outdoor</li>
+                                <li class="wow fadeInUp">Location</li>
+                                <li class="wow fadeInUp">Temperature</li>
+                                <li class="wow fadeInUp">Humidity</li>
+                                <li class="wow fadeInUp">Vibration</li>
+                                <li class="wow fadeInUp">Motion & Direction</li>
+                                <li class="wow fadeInUp">Man-Down</li>
+                                <li class="wow fadeInUp">Intrinsically Safe (Explosion Proof)</li>
+                                <li class="wow fadeInUp">Indoor & Outdoor</li>
                             </ul>
                         </div>
                     </div>
@@ -64,8 +64,8 @@
         <div class="page-content-inner container">
             <div class="row">
                 <div class="col-md-6 page-content-text">
-                    <h2 class="page-content-title">CONNECT TO ANY ASSET</h2>
-                    <p>Airista Flow provides a range of sensors based on a variety of wireless technologies to provide location and condition information for people and assets across the enterprise. If we don’t make a sensor, our ecosystem of partners completes our portfolio to connect to just about anything.</p>
+                    <h2 class="page-content-title wow fadeInLeft">CONNECT TO ANY ASSET</h2>
+                    <p class="wow fadeInUp">Airista Flow provides a range of sensors based on a variety of wireless technologies to provide location and condition information for people and assets across the enterprise. If we don’t make a sensor, our ecosystem of partners completes our portfolio to connect to just about anything.</p>
                 </div>
                 <div class="col-md-6 page-content-img">
                     <img src="assets/images/af-b4.png" alt="Airista Flow" class="img-fluid">
@@ -86,12 +86,12 @@
                             </h3>
                             <div class="card_body">
                                 <ul>
-                                    <li>Electronic Health & Medical Records</li>
-                                    <li>Enterprise Resource Planning</li>
-                                    <li>Manufacturing Resource Planning Systems</li>
-                                    <li>Manufacturing Execution Systems</li>
-                                    <li>Data Historians</li>
-                                    <li>Supply Chain Management Systems</li>
+                                    <li class="wow fadeInUp">Electronic Health & Medical Records</li>
+                                    <li class="wow fadeInUp">Enterprise Resource Planning</li>
+                                    <li class="wow fadeInUp">Manufacturing Resource Planning Systems</li>
+                                    <li class="wow fadeInUp">Manufacturing Execution Systems</li>
+                                    <li class="wow fadeInUp">Data Historians</li>
+                                    <li class="wow fadeInUp">Supply Chain Management Systems</li>
                                 </ul>
                             </div>
                         </div>
@@ -103,12 +103,12 @@
                             </h3>
                             <div class="card_body">
                                 <ul>
-                                    <li>Business Intelligence & Analytics Engine</li>
-                                    <li>Customizable Dashboard</li>
-                                    <li>Forensic Replay for Iterative Improvement</li>
-                                    <li>Process & Workflow Improvement</li>
-                                    <li>Alert Management</li>
-                                    <li>Wayfinding</li>
+                                    <li class="wow fadeInUp">Business Intelligence & Analytics Engine</li>
+                                    <li class="wow fadeInUp">Customizable Dashboard</li>
+                                    <li class="wow fadeInUp">Forensic Replay for Iterative Improvement</li>
+                                    <li class="wow fadeInUp">Process & Workflow Improvement</li>
+                                    <li class="wow fadeInUp">Alert Management</li>
+                                    <li class="wow fadeInUp">Wayfinding</li>
                                 </ul>
                             </div>
                         </div>
