@@ -79,7 +79,109 @@
         </section>
     </section>
 
-    <section class="page-content">
+
+
+
+
+<section class="page-content">
+    <section class="page-content-item">        
+        <section class="container-fluid">
+            <div class="row">
+                    <div class="page-app-example page-app-black col-md-6">
+                        <div class="left-right-bg">
+                            <div class="container">
+                            <!-- Row  -->
+                            <div class="row justify-content-center ">
+                                <!-- Column -->
+                                <div class="col-md-10 col-lg-9 align-self-center text-center">
+                                <h2 class="title wow fadeInUp">Wi-Fi</h2>
+                                <h3 class="title wow fadeInUp">Airista</h3>
+                                <p class="text-dark wow fadeInUp">Wi-Fi duress and location systems are rapidly becoming the duress system of choice worldwide for organisations needing to provide an advanced level of care to their staff and others visiting their sites.</p>
+                                <a class="btn rounded-pill btn-dark btn-md mt-3 mr-2" href="airista-application">View Application</a> 
+                                </div>
+                                <!-- Column -->
+                                <div class="col-md-10 text-center middle-image">
+                                <img src="assets/images/airista-example.png" class="img-fluid wow fadeInUp" alt="Airista" />
+                                </div>
+                            </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6">
+                        <div class="page-app-example page-app-black">
+                            <div class="left-right-bg">
+                                <div class="container">
+                                <!-- Row  -->
+                                <div class="row justify-content-center ">
+                                    <!-- Column -->
+                                    <div class="col-md-10 col-lg-9 align-self-center text-center">
+                                    <h2 class="title wow fadeInUp">Cellular</h2>
+                                    <h3 class="title wow fadeInUp">TWIG Com</h3>
+                                    <p class="wow fadeInUp">TWIG is a world-class purpose-designed line of duress and person-down products manufactured in Salo, Finland. TWIG products are small person-down and duress transmitters that operate across the mobile phone network. They message directly to mobile phones or landlines with both sms and two-way voice call alerts.</p>
+                                    <a class="btn rounded-pill btn-dark btn-md mt-3 mr-2" href="twig-com-application">View Application</a> 
+                                    </div>
+                                    <!-- Column -->
+                                    <div class="col-md-10 text-center middle-image">
+                                    <img src="assets/images/twig-example.png" class="img-fluid wow fadeInUp" alt="TWIG Com" />
+                                    </div>
+                                </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6">
+                        <div class="page-app-example page-app-black page-app-last ">
+                            <div class="left-right-bg">
+                                <div class="container">
+                                <!-- Row  -->
+                                <div class="row justify-content-center ">
+                                    <!-- Column -->
+                                    <div class="col-md-10 col-lg-9 align-self-center text-center">
+                                    <h2 class="title wow fadeInUp">RF</h2>
+                                    <h3 class="title wow fadeInUp">Mini PACCS</h3>
+                                    <p class="wow fadeInUp">The mini-PACCS on-site man-down system is designed for use by people working alone in industrial, health care, aged care, security and high-risk facilities.</p>
+                                    <a class="btn rounded-pill btn-dark btn-md mt-3 mr-2" href="mini-paccs-application">View Application</a> 
+                                    </div>
+                                    <!-- Column -->
+                                    <div class="col-md-10 text-center middle-image">
+                                    <img src="assets/images/mini-paccs-example.png" class="img-fluid wow fadeInUp" alt="Mini PACCS" />
+                                    </div>
+                                </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="page-app-example page-app-black bg-gray page-app-last col-md-6">
+                        <div class="left-right-bg">
+                            <div class="container">
+                            <!-- Row  -->
+                            <div class="row justify-content-center ">
+                                <!-- Column -->
+                                <div class="col-md-10 col-lg-9 align-self-center text-center">
+                                <h2 class="title wow fadeInUp">Bluetooth</h2>
+                                <h3 class="title wow fadeInUp">Quuppa</h3>
+                                <p class="wow fadeInUp">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corrupti quidem commodi quaerat tenetur, fugit nobis maiores reiciendis error amet minus. Perspiciatis debitis repudiandae a, nisi dolores exercitationem. Placeat, quasi velit?</p>
+                                <a class="btn rounded-pill btn-dark btn-md mt-3 mr-2" href="quupa-application">View Application</a> 
+                                </div>
+                                <!-- Column -->
+                                <div class="col-md-10 text-center middle-image">
+                                <img src="assets/images/airista-example.png" class="img-fluid wow fadeInUp" alt="wrapkit" />
+                                </div>
+                            </div>
+                            </div>
+                        </div>
+                    </div>
+                
+            </div>
+            
+        </section>        
+    </section> 
+</section>
+
+<section class="page-content">
             <section class="page-content page-software-card-container">
                 <div class="page-content-item">
                     <div class="page-content-inner container">
@@ -133,102 +235,6 @@
             </div>
     </section>
 
-
-
-
-<section class="page-content">
-    <section class="page-content-item">        
-        <section class="container-fluid">
-            <div class="row">
-                    <div class="page-app-example page-app-black col-md-6">
-                        <div class="left-right-bg">
-                            <div class="container">
-                            <!-- Row  -->
-                            <div class="row justify-content-center ">
-                                <!-- Column -->
-                                <div class="col-md-10 col-lg-9 align-self-center text-center">
-                                <h2 class="title wow fadeInUp">Airista</h2>
-                                <p class="text-dark wow fadeInUp">Wi-Fi duress and location systems are rapidly becoming the duress system of choice worldwide for organisations needing to provide an advanced level of care to their staff and others visiting their sites.</p>
-                                <a class="btn rounded-pill btn-dark btn-md mt-3 mr-2" href="airista-application">View Application</a> 
-                                </div>
-                                <!-- Column -->
-                                <div class="col-md-10 text-center middle-image">
-                                <img src="assets/images/airista-example.png" class="img-fluid wow fadeInUp" alt="Airista" />
-                                </div>
-                            </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="col-md-6">
-                        <div class="page-app-example page-app-black">
-                            <div class="left-right-bg">
-                                <div class="container">
-                                <!-- Row  -->
-                                <div class="row justify-content-center ">
-                                    <!-- Column -->
-                                    <div class="col-md-10 col-lg-9 align-self-center text-center">
-                                    <h2 class="title wow fadeInUp">TWIG Com</h2>
-                                    <p class="wow fadeInUp">TWIG is a world-class purpose-designed line of duress and person-down products manufactured in Salo, Finland. TWIG products are small person-down and duress transmitters that operate across the mobile phone network. They message directly to mobile phones or landlines with both sms and two-way voice call alerts.</p>
-                                    <a class="btn rounded-pill btn-dark btn-md mt-3 mr-2" href="twig-com-application">View Application</a> 
-                                    </div>
-                                    <!-- Column -->
-                                    <div class="col-md-10 text-center middle-image">
-                                    <img src="assets/images/twig-example.png" class="img-fluid wow fadeInUp" alt="TWIG Com" />
-                                    </div>
-                                </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="col-md-6">
-                        <div class="page-app-example page-app-black page-app-last ">
-                            <div class="left-right-bg">
-                                <div class="container">
-                                <!-- Row  -->
-                                <div class="row justify-content-center ">
-                                    <!-- Column -->
-                                    <div class="col-md-10 col-lg-9 align-self-center text-center">
-                                    <h2 class="title wow fadeInUp">Mini PACCS</h2>
-                                    <p class="wow fadeInUp">The mini-PACCS on-site man-down system is designed for use by people working alone in industrial, health care, aged care, security and high-risk facilities.</p>
-                                    <a class="btn rounded-pill btn-dark btn-md mt-3 mr-2" href="mini-paccs-application">View Application</a> 
-                                    </div>
-                                    <!-- Column -->
-                                    <div class="col-md-10 text-center middle-image">
-                                    <img src="assets/images/mini-paccs-example.png" class="img-fluid wow fadeInUp" alt="Mini PACCS" />
-                                    </div>
-                                </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="page-app-example page-app-black bg-gray page-app-last col-md-6">
-                        <div class="left-right-bg">
-                            <div class="container">
-                            <!-- Row  -->
-                            <div class="row justify-content-center ">
-                                <!-- Column -->
-                                <div class="col-md-10 col-lg-9 align-self-center text-center">
-                                <h2 class="title wow fadeInUp">Quuppa</h2>
-                                <p class="wow fadeInUp">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corrupti quidem commodi quaerat tenetur, fugit nobis maiores reiciendis error amet minus. Perspiciatis debitis repudiandae a, nisi dolores exercitationem. Placeat, quasi velit?</p>
-                                <a class="btn rounded-pill btn-dark btn-md mt-3 mr-2" href="quupa-application">View Application</a> 
-                                </div>
-                                <!-- Column -->
-                                <div class="col-md-10 text-center middle-image">
-                                <img src="assets/images/airista-example.png" class="img-fluid wow fadeInUp" alt="wrapkit" />
-                                </div>
-                            </div>
-                            </div>
-                        </div>
-                    </div>
-                
-            </div>
-            
-        </section>        
-    </section> 
-</section>
 
 
     <section class="page-content">

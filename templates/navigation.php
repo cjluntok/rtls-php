@@ -1,19 +1,19 @@
 <header id="page-header" class="page-header-container">
-            <div class="page-header-top">
-                <div class="page-header-top-items container">
-                    <div class="row">
-                        <div class="col-md-7 col-lg-8 col-sm-2 hide-on-mobile" id="top-text">
-                            <p class="">The Experts in Real-Time Location Systems</p>
-                        </div>
-                        <div class="col-md-3 col-lg-2 col-sm-6  top-item-buy">
-                            <a href="tel:+612-9412-2100"><i class="fas fa-phone-alt"></i> +(612) 9412 2100</a>
-                        </div>
-                        <div class="col-md-2 col-lg-2 col-sm-6  top-item-enquiry">
-                            <a href="contact#form"><i class="fas fa-comment-dots"></i> Enquiry</a>
+                <div class="page-header-top">
+                    <div class="page-header-top-items container">
+                        <div class="row">
+                            <div class="col-md-7 col-lg-8 col-sm-2 hide-on-mobile" id="top-text">
+                                <p class="">The Experts in Real-Time Location Systems</p>
+                            </div>
+                            <div class="col-md-3 col-lg-2 col-sm-6  top-item-buy">
+                                <a href="tel:+612-9412-2100"><i class="fas fa-phone-alt"></i> +(612) 9412 2100</a>
+                            </div>
+                            <div class="col-md-2 col-lg-2 col-sm-6  top-item-enquiry">
+                                <a href="contact#form"><i class="fas fa-comment-dots"></i> Enquiry</a>
+                            </div>
                         </div>
                     </div>
                 </div>
-            </div>
 
             <div id="page-nav-container" class="page-header-content">
                 <div class="container navigation-container">
@@ -45,7 +45,7 @@
                                 </li>
                                 <li class="nav-item dropdown <?= ($page == 'app') ? 'active' : ''?>">
                                         <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                                            Examples
+                                            Brand Examples
                                         </a>
                                         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
                                             <a class="dropdown-item <?= ($name == 'airista-app') ? 'active' : ''?>" href="airista-application"><i class="fas fa-caret-right"></i>Airista Application</a>
